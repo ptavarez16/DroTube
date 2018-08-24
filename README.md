@@ -4,7 +4,7 @@ A YouTube clone built with React.js.
 ![DroTube](https://i.imgur.com/lcSuHy8.png)
 
 ### Overview
-This web application was built using the popular frontend framework, React.js. The app uses YouTube's API to enable users the ability to search youtube videos.
+This web application was built using the popular frontend framework, React.js. The app uses YouTube's API to enable users the ability to search videos.
 
 On the initial load, the app fetches trending videos on YouTube, listing the top 5 on the right side of the page. The first video on the list is displayed with an iframe ready to play along with the video's title and description.
 
